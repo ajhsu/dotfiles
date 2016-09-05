@@ -6,9 +6,9 @@ set fileencodings=utf-8,cp950
 syntax on        " 語法上色顯示
 set nocompatible " VIM 不使用和 VI 相容的模式
 " set ai           " 自動縮排
-set shiftwidth=4 " 設定縮排寬度 = 4 
-set tabstop=4    " tab 的字元數
-set softtabstop=4
+set shiftwidth=2 " 設定縮排寬度 = 2
+set tabstop=2    " tab 的字元數
+set softtabstop=2
 set expandtab   " 用 space 代替 tab
  
 set ruler        " 顯示右下角設定值
