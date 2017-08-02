@@ -20,6 +20,7 @@
 		tr = log --graph --decorate --pretty=oneline --abbrev-commit
 		logs = log --summary --stat
 		co = checkout
+    ci = commit
 		st = status
 		br = branch
 
